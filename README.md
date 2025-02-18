@@ -1,6 +1,6 @@
 # Redução de Dimensionalidade de Imagens  
 
-Este repositório contém um projeto de **redução de dimensionalidade de imagens**, desenvolvido como parte de um desafio de projeto no bootcamp de **Machine Learning**. O objetivo é processar uma imagem original e transformá-la para uma representação mais simples, utilizando técnicas como:  
+Este repositório contém um projeto de **redução de dimensionalidade de imagens**, desenvolvido como parte de um desafio de projeto. O objetivo é processar uma imagem original e transformá-la para uma representação mais simples, utilizando técnicas como:  
 
 1. **Conversão para Tons de Cinza**  
 2. **Binarização (Preto e Branco)**  
@@ -34,14 +34,14 @@ Após a conversão para tons de cinza, a imagem é transformada em uma imagem **
 
 # Image Dimensionality Reduction  
 
-This repository contains an **image dimensionality reduction** project, developed as part of a project challenge in the **Machine Learning** bootcamp. The aim is to process an original image and transform it into a simpler representation, using techniques such as:  
+This repository contains an **image dimensionality reduction** project, developed as part of a project challenge. The aim is to process an original image and transform it into a simpler representation, using techniques such as:  
 
 1. **Grayscale conversion**  
 2. **Binarization (Black and White)**  
 
 ## 📜 Description  
 
-Dimensionality reduction is an important step in the manipulation and analysis of images, especially in Machine Learning and Computer Vision tasks, **as it reduces processing time, thus not causing the algorithm to store 'unnecessary' information.
+Dimensionality reduction is an important step in manipulating and analyzing images, especially in Machine Learning and Computer Vision tasks, **as it reduces processing time, thus not causing the algorithm to store 'unnecessary' information.
 
 This project has two main stages:  
 
